@@ -1,1 +1,10 @@
-skajgskjj
+git status
+git add . -- add to remote
+git branch -- get all branches
+git branch -d branchname -- delete branch from local
+git commit
+git push origin branchname -- push via branch
+git push origin -d branchname -- delete branch from remote repo..
+git checkout branchname -- checkout to new branch and merge changes from existing branch
+git switch branchname -- switch to branch
+git merge branchname -- merge changes from branch to existing branch
